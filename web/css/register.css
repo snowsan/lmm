@@ -1,0 +1,344 @@
+body {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.XieYi2 {
+
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+}
+
+.Modal-backdrop {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 0.5;
+
+    z-index: 3;
+}
+
+.XieYi3 {
+    width: 600px;
+    height: 470px;
+    position: relative;
+    top: 170px;
+    margin: 0 auto;
+    border-radius: 2px;
+    background-color: white;
+    z-index: 4;
+    padding: 30px;
+}
+
+.NeiRong {
+    position: relative;
+    bottom: 27px;
+    width: 600px;
+    height: 320px;
+    overflow: auto;
+}
+
+.h3 {
+    position: relative;
+    bottom: 25px;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 10px;
+}
+
+.quit {
+    position: relative;
+    left: 320px;
+    color: #bebebe;
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+}
+
+.quit:hover {
+    background-color: #3030ff;
+    color: white;
+}
+
+.ZhuTi {
+    position: relative;
+    bottom: 20px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.XieYi4 {
+    font-size: 15px;
+}
+
+.NeiRong1 {
+    font-size: 15px;
+}
+
+.YinShi {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.AnNiue {
+    text-align: center;
+}
+
+.AnNiue input {
+    margin: 20px;
+}
+
+.BuTonYi {
+    padding: 9px 50px;
+    border: 1px solid #bebebe;
+    background-color: white;
+    color: #bebebe;
+    font-size: 17px;
+    font-family: 微软雅黑;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.BuTonYi:hover {
+    background-color: #f5f5f5;
+
+}
+
+.TongYi {
+    padding: 9px 50px;
+    border: 1px solid #E77C00;
+    background-color: #FFB000;
+    color: white;
+    font-size: 17px;
+    font-family: 微软雅黑;
+    border-radius: 3px;
+    border-bottom: 2px solid #8E6F4C;
+    cursor: pointer;
+    text-shadow: 1px 1px #CF7000;
+}
+
+.TongYi:hover {
+    background-color: #CC7B10;
+}
+
+.logo {
+    margin: 10px 120px;
+    cursor: pointer;
+}
+
+.login1 {
+    position: relative;
+    left: 850px;
+    bottom: 25px;
+    font-size: 12px;
+}
+
+.login {
+    color: #2881CA;
+
+}
+
+.KeFu {
+    color: #4C4C4C;
+}
+
+.JinDu {
+    font-size: 13px;
+    align-items: center;
+}
+
+.TianXie {
+    color: #799D08;
+}
+
+.JinDu1 {
+    position: relative;
+    bottom: 3px;
+}
+
+
+
+
+.YanZhangMa{
+    padding: 7px;
+    font-family:Arial;
+    font-style:italic;
+    font-weight:bold;
+    border:0;
+    letter-spacing:8px;
+    color:blue;
+}
+
+.HuanYiZhang{
+    cursor: pointer;
+    text-decoration: blink;
+    color: #0066CC;
+    font-size: 12px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ShuRuKuang {
+    border: 1px solid #DDDDDD;
+    font-size: 15px;
+    width: 234px;
+    height: 27px;
+}
+
+.MiMaQiangDu {
+    padding: 5px 16px;
+    background-color: #F1D0B9;
+    color: white;
+    font-size: 13px;
+}
+
+.XieYi1 {
+    font-size: 13px;
+}
+
+.ZhuCheAnNiu {
+    padding: 9px 66px;
+    border: 1px solid #E77C00;
+    background-color: #FFB000;
+    color: white;
+    font-size: 17px;
+    font-family: 微软雅黑;
+    border-radius: 3px;
+    border-bottom: 2px solid #8E6F4C;
+    cursor: pointer;
+    text-shadow: 1px 1px #CF7000;
+}
+
+.ZhuCheAnNiu:hover {
+    background-color: #CC7B10;
+
+}
+
+.WenTi {
+    font-size: 13px;
+
+}
+
+
+.ZhuCe {
+    margin: 20px 200px;
+}
+
+.JianYi {
+    color: #0066CC;
+    cursor: pointer;
+}
+
+.JianYi:hover {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.YanZheng {
+
+    display: none;
+    background-image: url("../images/zhuyi.gif");
+    background-repeat: no-repeat;
+    background-position-x: 6px;
+    background-position-y: 4.5px;
+    line-height: 22px;
+    font-size: 14px;
+    width: 234px;
+    height: 20px;
+    border: 1px solid #FFB533;
+    background-color: #FFF5D1;
+    color: #333333;
+}
+
+
+.YZM{
+    /*display: none;*/
+}
+
+.YanZheng2{
+position: relative;
+    left: 50px;
+}
+.FaSongYanZhengMa{
+    color: #666;
+    font-size: 14px;
+    line-height: 2;
+}
+.YanZhengMa2{
+    border: 1px solid #DDDDDD;
+    font-size: 15px;
+    width: 200px;
+    height: 27px;
+}
+.WanCheng{
+    margin-right: 180px;
+}
+.CongXinHuoQu{
+    position: relative;
+    bottom: 235px;
+    left: 406px;
+    width: 223px;
+    height: 125px;
+    padding: 25px;
+    border: 1px solid #E5E5E5;
+background-color:#F9F9F9;
+    color: #666666;
+}
+.CongXinHuoQu1{
+    padding:5px 25px;
+    color: #0066CC;
+    border: 1px solid #AAC6E2;
+background-color: #DCEEFF;
+border-radius: 5px;
+}
+.CongXinHuoQu1:hover{
+    background-color: #185A96;
+    color: white;
+}
+.Huo{
+    font-size: 12px;
+
+}
+.XiuGai{
+    font-size: 12px;
+    color:#0066CC ;
+    cursor: pointer;
+}
+
+.XiuGai:hover{
+    text-decoration: underline;
+
+}
+#YanZhengMa22{
+    width: 200px;
+}
+#YanZheng2{
+    margin: 20px 43px;
+
+}

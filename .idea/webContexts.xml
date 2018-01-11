@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/html/jiuDian.html" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/test.html" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/test2.html" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/page/DengLu.jsp" value="file://$PROJECT_DIR$/web/page" />
+        <entry key="file://$PROJECT_DIR$/web/page/DingFang.jsp" value="file://$PROJECT_DIR$/web/page" />
+        <entry key="file://$PROJECT_DIR$/web/page/JiuDianDingDan.jsp" value="file://$PROJECT_DIR$/web/page" />
+        <entry key="file://$PROJECT_DIR$/web/page/User.jsp" value="file://$PROJECT_DIR$/web/page" />
+        <entry key="file://$PROJECT_DIR$/web/page/header.jsp" value="file://$PROJECT_DIR$/web/page" />
+        <entry key="file://$PROJECT_DIR$/web/page/jiuDian.jsp" value="file://$PROJECT_DIR$/web/page" />
+        <entry key="file://$PROJECT_DIR$/web/page/jiuDianXiangQing.jsp" value="file://$PROJECT_DIR$/web/page" />
+      </map>
+    </option>
+  </component>
+</project>

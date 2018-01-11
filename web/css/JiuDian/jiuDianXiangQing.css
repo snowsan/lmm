@@ -1,0 +1,166 @@
+body {
+    background-color: #F8F8F8;
+font-size: 14px;
+}
+
+/*主页*/
+.ZhuYe {
+    height: 100%;
+    margin: 0px 100px;
+}
+
+li {
+    display: inline-block;
+}
+
+/*简介*/
+.title {
+    font-size: 30px;
+}
+
+.title1 {
+    font-size: 12px;
+
+    color: #666666;
+}
+
+.MuLu {
+    margin: 14px 0;
+    color: #666666;
+}
+
+.JiuDianJianJie {
+    border: 1px solid #E6E6E6;
+    padding: 20px;
+    background-color: white;
+    position: relative;
+}
+
+.price {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 33px;
+    font-weight: 900;
+    color: #FF6600;
+}
+
+.yuan {
+    color: #FF6600;
+    font-size: 18px;
+}
+
+.Qi {
+    font-size: 14px;
+    color: #999999;
+}
+
+.YuDing {
+    position: relative;
+    bottom: 11px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: #FF8800;
+    border-radius: 3px;
+}
+
+.ManJian span {
+    background: no-repeat left url("../images/qqq/hongbao.jpg");
+    padding: 2px;
+    font-size: 12px;
+    color: #FF6151;
+    border: 1px solid #FF6151;
+}
+
+.ShouCang {
+    color: #999999;
+    font-size: 12px;
+    background: url("../images/qqq/xingxing.jpg") no-repeat left;
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.ShouCang:hover {
+    color: #FF8800;
+    background: url("../images/qqq/xingxing1.jpg") no-repeat left;
+}
+
+.TuPian {
+    width: 408px;
+    height: 273px;
+    overflow: hidden;
+}
+
+.TuPian img {
+    width: 408px;
+    height: 275px;
+    transition: all 0.6s;
+}
+
+.TuPian img:hover {
+    transform: scale(1.2);
+}
+
+.HaoPingLv{
+    font-size: 25px;
+    color: #FF8800;
+}
+.HaoPingLv1{
+    color: #FF8800;
+}
+.XiangQing1{
+position: relative;
+left: 30px;
+}
+.PingLun{
+    color: #999999;
+}
+.DingFang{
+font-size: 20px;
+    color: #999999;
+}
+.RuZhu{
+ font-weight: 900;
+}
+
+.FangJian11{
+    padding: 20px;
+    position: relative;
+   border: 1px solid #dcdcdc;
+    background-color: white;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.FangJian11:hover{
+     border: 1px solid #a4a4a4;
+ }
+
+
+.FangJian{
+    display: flex;
+    align-items: center;
+}
+
+.MuLuLan{
+    padding: 20px;
+    background-color: #cbcbcb;
+    color: #999999;
+}
+.FangJian2{
+    border-bottom: 1px solid #d1d9cb;
+    line-height: 50px;
+}
+.price1{
+    color: #FF6600;
+    font-size: 20px;
+}
+.YuDing1{
+  padding: 8px;
+    color:white;
+    background-color:#FF6600 ;
+    cursor: pointer;
+}
+

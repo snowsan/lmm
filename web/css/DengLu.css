@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+}
+
+.xiaoshou {
+    cursor: pointer;
+}
+
+.JiuDianSouSuo {
+    position: absolute;
+    top: 153px;
+    right: 158px;
+    width: 390px;
+    height: 375px;
+    background-color: white;
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+.JiuDianSouSuo1 {
+    padding: 2px 53px;
+}
+
+.JiuDianSouSuo1 div {
+    margin: 11px;
+}
+
+.qq {
+    border: 2px solid #EE3388;
+    font-size: 20px;
+    width: 282px;
+    height: 38px;
+    color: #000000;
+    background-color: #EE3388;
+}
+
+
+
+.aa{
+    color: #FFF;
+}
+
+.qqq {
+    color: #999999;
+}
+
+.qqqq {
+    color: #0099CC;
+}
+
+.JiuDianSouSuo2 {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.line {
+    width: 65px;
+    border: 1px solid #EE3388;
+}
+
+.ww {
+    position: relative;
+    top: 15px;
+    left: 397px;
+}
+
+.YanZheng {
+    position: absolute;
+    top: 229px;
+    right: 560px;
+    font-size: 25px;
+}
+
+.password {
+    font-weight: 900;
+    background: white left url("../images/xxx.jpg") no-repeat;
+
+}
+
+.zhuce {
+    background: white left url("../images/xxx.jpg") no-repeat;
+    font-weight: 900;
+    display: none;
+}
+
+.qq1 {
+    background: #FEF2F9;
+}
+
+.qq2 {
+    background: #FFF;
+}
+
+

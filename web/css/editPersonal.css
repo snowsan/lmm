@@ -1,0 +1,167 @@
+.menu{
+    display: flex;
+    width: 170px;
+    height: 30px;
+    margin-right: 27px;
+    margin-left: 27px;
+    color: #999;
+}
+.menu a{
+    padding: 0 10px;
+    font-size: 15px;
+    line-height: 30px;
+    color: #8590a6;
+    text-decoration: none;
+    cursor: auto;
+}
+.menu a:hover{
+    color: #666;
+}
+.search{
+    position: relative;
+    float: left;
+}
+
+.search-input{
+    padding: 7px 50px 7px 10px;
+    width: 100%;
+    height: 36px;
+    color: #49525c;
+    background: transparent;
+    line-height: 17px;
+    border-radius: 4px;
+}
+.searbtn{
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #afbdcf;
+    width: 40px;
+    height: 36px;
+    cursor: pointer;
+}
+.main{
+    position: relative;
+    width: 1000px;
+    padding: 0 16px;
+    margin: 64px auto 0;
+}
+.card{
+    background: #fff;
+    border: 1px solid #e7eaf1;
+    border-radius: 2px;
+}
+
+
+.peopleinfo{
+    position: relative;
+    width: 97%;
+    background: #fff;
+    box-sizing: border-box;
+    margin: 0 0 24px 24px;
+}
+.photo{
+    position: absolute;
+    border-radius: 8px;
+    width: 160px;
+    height:140px;
+    cursor: pointer;
+}
+
+.xiugaizi{
+    display: block;
+    position: absolute;
+    top: 145px;
+    color: #000;
+}
+.intruduce{
+    padding-top: 16px;
+    padding-left: 32px;
+    border-left: 164px solid transparent;
+}
+.intruduce h1{
+    color: #262626;
+    font-weight: 100;
+    margin: 0 0 5px;
+}
+.back{
+    font-size: 14px;
+    font-size: 14px;
+    margin-top: 10px;
+    float: right;
+    color: #8590a6;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+.xinxi{
+    padding-bottom: 100px;
+    margin-top: 10px;
+}
+.fild{
+    border-bottom: 1px solid #ebeef5;
+    padding: 20px 0;
+
+}
+.fildlabel{
+    position: absolute;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25px;
+    color: #333;
+    margin-top: 21px;
+}
+.fildcontent{
+    padding: 15px 64px 0 140px;
+    line-height: 36px;
+}
+.fildcontent button{
+    margin-left: 16px;
+    color: #175199;
+    font-size: 15px;
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    opacity: 0.3;
+}
+.fildtext{
+    border: none;
+    line-height: 20px;
+    font-size: 15px;
+    padding: 5px;
+    box-sizing: border-box;
+    outline: none;
+    width: 90%;
+}
+.add-border{
+    border: 1px solid #ddd;
+    outline:lightblue;
+}
+.mar-zuo{
+    margin-left: 175px;
+    margin-top: 10px;
+}
+.modify{
+    float: right;
+    padding: 9px 22px;
+    background-color: #fff;
+    border: 1px #ddd solid;
+    color: #555;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.save-btn{
+    text-align: center;
+    margin: 10px;
+}
+.save{
+    padding: 10px 30px;
+    background-color: #fff;
+    border: 1px #ddd solid;
+    color: #555;
+    border-radius: 4px;
+}
+.select{
+    width:100px;
+    height:30px;
+}

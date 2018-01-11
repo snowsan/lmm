@@ -1,0 +1,153 @@
+body {
+    background-color: #F5F5F5;
+}
+
+.mainBox {
+    background-color: #F5F5F5;
+    margin: 0 100px;
+}
+
+.ui-step {
+    display: flex;
+    list-style-type: none;
+}
+
+.ui-step li {
+    border-bottom: 5px solid orange;
+    width: 355px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+.orderTicket {
+    background-color: #F5F5F5;
+}
+
+.orderMainLeft {
+    background-color: white;
+    width: 890px;
+    float: left;
+    border: 1px solid #DDDDDD;
+}
+
+.orderTit {
+    background-color: #F5F5F5;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.orderTit-title {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.orderTit-subTit {
+    color: #999999;
+}
+
+.orderTit-text {
+    margin-left: 10px;
+}
+
+.ticketLi {
+    margin-left: 80px;
+}
+
+.ticketTit-link {
+    text-decoration: none;
+    color: black;
+}
+
+.tagsback {
+    border: 1px solid #73C7F9;
+    border-radius: 2px;
+    color: #73C7F9;
+    font-size: 5px;
+    padding: 2px;
+}
+
+.orderDl {
+    margin: 30px 0px;
+}
+
+.red {
+    color: red;
+}
+
+.userinfoDiv {
+    margin-left: 67px;
+}
+
+.userinfoDiv-text {
+    margin: 30px 0;
+}
+
+.btn-submit {
+    background-color: orange;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+}
+
+.payBox {
+    margin: 25px 0;
+
+}
+
+.orderFoot {
+    border-top: 1px solid #DDDDDD;
+    background-color: #F9F9F9;
+    text-align: center;
+}
+
+.orderInfo {
+    background-color: #FFFAEE;
+    width: 300px;
+    height: 200px;
+    float: right;
+    border: 1px solid #FFCC66;
+}
+
+.nobd {
+    list-style-type: none;
+}
+
+.orderTicketInfo-list {
+    margin-left: 10px;
+}
+
+.ticketPriceTotal {
+    display: flex;
+    align-items: center;
+    line-height: 75px;
+    width: auto;
+    height: 74px;
+    background-color: #FEEECE;
+    margin-bottom: 0;
+}
+
+.primary {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.nobd-text {
+    margin-left: 120px;
+}
+
+.primary-text {
+    margin-left: 104px;
+}
+
+.ticketPriceTotal-text2 {
+    margin-left: 155px;
+}
+
+.ticketPriceTotal-text1 {
+    margin-left: 15px;
+}

@@ -1,0 +1,48 @@
+
+.img{
+    margin: 18px 119px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 18px;
+margin-bottom: -12px;
+}
+.name5{
+    border: none;
+}
+.xiaoshou{
+    cursor: pointer;
+}
+.header1{
+    width: 1423px;
+    height: 40px;
+    background-color: #ff5953;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+}
+.header1 a{
+    text-decoration: none;
+}
+.souye{
+padding: 6px;
+    cursor: pointer;
+
+}
+.souye:hover{
+background-color: #874f4f;
+}
+
+.header1 a{
+   margin-left: 100px;
+
+}
+
+.DingDan form{
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+}

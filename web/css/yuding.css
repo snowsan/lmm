@@ -1,0 +1,1061 @@
+body
+{
+    top:0;
+    margin: 0;
+    padding: 0;
+    background-color: #F5F5F5;
+}
+header
+{
+    width: 10000px;
+    height: 82px;
+    background-color: white;
+    border-bottom: 1px solid #E6E6E6;
+    z-index: 1;
+}
+.top
+{
+    width: 1246px;
+    height: 75px;
+    /*border: 1px solid red;*/
+    border: none;
+}
+.img1 img
+{
+    position: relative;
+    top:4px;
+    left:15px;
+}
+.img2 img
+{
+   width: 121px;
+    height: 43px;
+    position: relative;
+    top:3px;
+    left:10px;
+}
+.img3 img
+{
+    width: 356px;
+    height: 49px;
+    position: relative;
+    top:5px;
+    left:561px;
+}
+/*第二部分，列车详细信息*/
+.info
+{
+    width: 889px;
+    height: 234px;
+    background-color: white;
+    position: relative;
+    top:12px;
+    left:17px;
+}
+.info1
+{
+    width: 846px;
+    height: 121px;
+    background-color: white;
+    border-bottom: 1px solid #DDDDDD;
+    position: relative;
+    top:20px;
+    left:20px;
+    display: flex;
+    align-items: center;
+}
+.cheinfo1 input
+{
+    width: 63px;
+    height: 24px;
+    border: none;
+    font-size: 20px;
+    color: #333333;
+    margin-left: 58px;
+
+}
+.info2
+{
+    position: relative;
+    left:65px;
+}
+.info2 img
+{
+    width: 19px;
+    height: 19px;
+    position: relative;
+    left:58px;
+    top:4px;
+}
+.inner1 input
+{
+    width: 47px;
+    height: 25px;
+    border: none;
+   color: #333333;
+    font-size: 17px;
+    position: relative;
+    left:59px;
+}
+.inner2 input
+{
+    width: 76px;
+    height: 32px;
+    border: none;
+    color: #333333;
+    font-size: 28px;
+    position: relative;
+    left:50px;
+}
+.inner3 input
+{
+    width: 78px;
+    height: 25px;
+    border: none;
+    color: #999999;
+    font-size: 15px;
+    position: relative;
+    left:46px;
+}
+.cheinfo2
+{
+    width: 119px;
+    height: 28px;
+    background-color: #F5F5F5;
+    position: relative;
+    left:127px;
+}
+.cheinfo2 img
+{
+   width: 18px;
+    height: 17px;
+    position: relative;
+    top:6px;
+    left:18px;
+}
+.cheinfo2 input
+{
+    width: 66px;
+    height: 25px;
+    border: none;
+    background-color: #F5F5F5;
+    font-size: 14px;
+    color: #666666;
+    position: relative;
+    top:2px;
+    left:15px;
+}
+.info3
+{
+    position: relative;
+    left:163px;
+}
+.info3 img
+{
+    width: 19px;
+    height: 19px;
+    position: relative;
+    left:16px;
+    top:4px;
+}
+.inner4 input
+{
+    width: 38px;
+    height: 25px;
+    border: none;
+    color: #333333;
+    font-size: 17px;
+    position: relative;
+    left:18px;
+}
+.inner5 input
+{
+    width: 72px;
+    height: 31px;
+    border: none;
+    color: #333333;
+    font-size: 28px;
+    position: relative;
+    left:15px;
+}
+.inner6 input
+{
+    width: 77px;
+    height: 25px;
+    border: none;
+    color: #999999;
+    font-size: 15px;
+    position: relative;
+    left:15px;
+}
+.info3 div,.info2 div
+{
+    margin-bottom: 6px;
+}
+.cheinfo3
+{
+    width: 77px;
+    height: 19px;
+    border-bottom: 1px dashed #999999;
+    color: #999999;
+    position: relative;
+    left:308px;
+    font-size: 15px;
+}
+.info4
+{
+    position: relative;
+    left:34px;
+    top:-67px;
+}
+.info4 li
+{
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 20px;
+    color: #333333;
+}
+.img4 img
+{
+    width: 22px;
+    height: 19px;
+    position: relative;
+    top:3px;
+    left:-29px;
+}
+.img5 img
+{
+    width: 16px;
+    height: 15px;
+    position: relative;
+    left:-35px;
+}
+.zuowei
+{
+    width: 202px;
+    height: 37px;
+    border: 1px solid #999999;
+    position: relative;
+    top:-2px;
+    left:-13px;
+    line-height: 35px;
+}
+.price
+{
+    color: #FF6600;
+}
+.price input
+{
+    color: #FF6600;
+    width: 24px;
+    height: 24px;
+    border: none;
+}
+.zuowei1 input
+{
+    width: 29px;
+    height: 19px;
+    border: none;
+    margin-right: 14px;
+    margin-left: 22px;
+}
+.zuowei2
+{
+    margin-left: 20px;
+}
+.zuowei2 input
+{
+   width: 13px;
+    height: 20px;
+    border: none;
+    position: relative;
+    left:-5px;
+}
+.zuowei3
+{
+    position: relative;
+    left:-52px;
+    top:-2px;
+}
+/*第三部分，费用信息*/
+.fire
+{
+    width: 321px;
+    height: 254px;
+    /*border: 1px solid red;*/
+    border: none;
+    background-color: white;
+    position: relative;
+    top:-285px;
+    left:921px;
+}
+.fire1
+{
+    font-size: 17px;
+    position: relative;
+    top:6px;
+    left: 14px;
+}
+.fire2 li
+{
+   display: inline-flex;
+    position: relative;
+    left:-25px;
+    top:18px;
+    color: #333333;
+    font-size: 15px;
+}
+#f1
+{
+    color: #FF6600;
+    position: relative;
+    left:121px;
+}
+#f2
+{
+    font-size: 11px;
+    position: relative;
+    left:129px;
+}
+.fire3
+{
+    width: 286px;
+    height: 51px;
+    /*border: 1px solid red;*/
+    border-top: 1px dashed #999999;
+    border-bottom: 1px dashed #999999;
+
+    position: relative;
+    left:18px;
+    top:25px;
+}
+.fire3 li
+{
+    display: inline-flex;
+    position: relative;
+    left:-43px;
+    color: #333333;
+    font-size: 15px;
+}
+#f3
+{
+    color: #FF6600;
+    position: relative;
+    left:102px;
+}
+#f4
+{
+    font-size: 11px;
+    position: relative;
+    left:120px;
+}
+.fire4
+{
+    width: 321px;
+    height: 93px;
+    background-color: #FFFAEE;
+    position: relative;
+    top:41px;
+}
+.f5
+{
+    font-size: 18px;
+    position: relative;
+    top:21px;
+    left:13px;
+    font-weight: bolder;
+}
+.f6
+{
+    font-size: 26px;
+    color: #FF6600;
+    font-weight: bolder;
+    position: relative;
+    top:-9px;
+    left:206px;
+}
+.f7
+{
+    font-size: 14px;
+    color: #666666;
+    position: relative;
+    top:-3px;
+    left:15px;
+}
+/*第四部分，乘客信息*/
+.ckinfo
+{
+    width: 889px;
+    height: 878px;
+    background-color: white;
+    position: relative;
+    top:-295px;
+    left:17px;
+}
+.ckinfo1
+{
+    width: 849px;
+    height: 46px;
+    background-color: #F9F9F9;
+    color: #333333;
+    position: relative;
+    top:20px;
+    left:19px;
+}
+.ckimg1 img
+{
+    width: 48px;
+    height: 44px;
+}
+.ckimg2 img
+{
+    width: 15px;
+    height: 16px;
+    position: relative;
+    top:3px;
+    left:573px;
+}
+.ckimg2
+{
+   position: relative;
+    top:-15px;
+    left:10px;
+    font-size: 18px;
+}
+.ckimg2 span
+{
+    font-size: 14px;
+    position: relative;
+    left:576px;
+}
+.ckinfo2
+{
+    position: relative;
+    top:36px;
+    left:103px;
+    font-size: 14px;
+    color: #666666;
+}
+.ckinfo2 a
+{
+    text-decoration: none;
+    color: #2299EE;
+}
+.ckinfo3
+{
+    width: 769px;
+    height: 148px;
+    /*border: 1px solid #999999;*/
+    border-bottom: 1px solid #CCCCCC;
+    position: relative;
+    top:38px;
+    left:77px;
+    font-size: 14px;
+    color: #333333;
+}
+.man1 img
+{
+    width: 51px;
+    height: 53px;
+    position: relative;
+    top:30px;
+    left:-1px;
+}
+.xing1,.xing2,.xing3,.xing4
+{
+    color: #FF8800;
+    font-size: 11px;
+}
+.man2
+{
+    position: relative;
+    top:-14px;
+    left:118px;
+}
+.man2 input
+{
+    width: 317px;
+    height: 34px;
+}
+.man3
+{
+    width: 60px;
+    height: 19px;
+    border-bottom: 1px dashed #999999;
+    color: #999999;
+    position: relative;
+    left:501px;
+    top:-43px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.man4 a
+{
+    text-decoration: none;
+    color: #2299EE;
+    font-size: 14px;
+    position: relative;
+    left:741px;
+    top:-84px;
+
+}
+.man5
+{
+    position: relative;
+    top:-51px;
+    left:95px;
+}
+.man5 input
+{
+    width: 212px;
+    height: 35px;
+    position: relative;
+    top:4px;
+
+}
+.man5 select
+{
+    width: 96px;
+    height: 35px;
+    position: relative;
+    left:-5px;
+    top:5px;
+}
+.ckinfo4
+{
+    position: relative;
+    top:50px;
+    left:215px;
+}
+.ckinfo4 li
+{
+    display: inline-block;
+}
+.man6
+{
+    width: 120px;
+    height: 34px;
+    background-color: #FF8800;
+    font-size: 15px;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+}
+.man7
+{
+    width: 120px;
+    height: 34px;
+    border: 1px solid #999999;
+    font-size: 15px;
+    text-align: center;
+    line-height: 30px;
+    position: relative;
+    left:5px;
+}
+.man8
+{
+    width: 99px;
+    height: 19px;
+    border-bottom: 1px dashed #999999;
+    color: #999999;
+    position: relative;
+    left:10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.ckinfo5
+{
+    position: relative;
+    left:253px;
+    top:55px;
+}
+.ckinfo5 a
+{
+   text-decoration: none;
+    font-size: 12px;
+    color: #999999;
+    cursor: pointer;
+}
+.ckinfo5 select
+{
+    border: none;
+}
+
+/*取票*/
+.ckinfo6
+{
+    width: 849px;
+    height: 46px;
+    background-color: #F9F9F9;
+    color: #333333;
+    position: relative;
+    top:72px;
+    left:19px;
+}
+.getpiao1 img
+{
+    width: 48px;
+    height: 44px;
+}
+
+.getpiao2
+{
+    position: relative;
+    top:-15px;
+    left:10px;
+    font-size: 18px;
+}
+
+.ckinfo7 li
+{
+   display: inline-block;
+    position: relative;
+    top:87px;
+    left:158px;
+}
+.get1
+{
+    font-size: 15px;
+    color: #999999;
+}
+.get2
+{
+    width: 41px;
+    height: 20px;
+    color: white;
+    background-color: darksalmon;
+    font-size: 13px;
+    position: relative;
+    left:13px;
+}
+.get3
+{
+    font-size: 15px;
+    color: #999999;
+    position: relative;
+    left:34px;
+}
+.get4
+{
+    font-size: 13px;
+    width: 53px;
+    height: 20px;
+    background-color: green;
+    color: white;
+    position: relative;
+    left:43px;
+}
+.get5
+{
+    font-size: 13px;
+    width: 42px;
+    height: 20px;
+    background-color: deepskyblue;
+    color: white;
+    position: relative;
+    left:48px;
+}
+.ckinfo8
+{
+    position: relative;
+    top:10px;
+    left:20px;
+}
+
+
+.man9
+{
+    position: relative;
+    top:84px;
+    left:133px;
+}
+.man9 input
+{
+    width: 281px;
+    height: 34px;
+}
+.man10
+{
+    position: relative;
+    top:106px;
+    left:121px;
+}
+.man10 input
+{
+    width: 281px;
+    height: 34px;
+}
+
+/*特惠专区*/
+.ckinfo9
+{
+    width: 849px;
+    height: 46px;
+    background-color: #F9F9F9;
+    color: #333333;
+    position: relative;
+    top:147px;
+    left:19px;
+}
+.tehui1 img
+{
+    width: 48px;
+    height: 44px;
+}
+
+.tehui2
+{
+    position: relative;
+    top:-15px;
+    left:10px;
+    font-size: 18px;
+}
+.ckinfo10
+{
+    width: 578px;
+    height: 74px;
+    /*border: 1px solid red;*/
+    border: none;
+    position: relative;
+    top:154px;
+    left:128px;
+}
+.tehui3 li
+{
+    display: inline-block;
+}
+.tehui4 li
+{
+    display: inline-block;
+}
+.tehui3 img,.tehui4 img
+{
+    width: 15px;
+    height: 14px;
+}
+.th1
+{
+    font-size: 13px;
+    color: #666666;
+    position: relative;
+    left:2px;
+    top:-2px;
+}
+.th2
+{
+    font-size: 15px;
+    color: #FF6600;
+    position: relative;
+    left:94px;
+    top:-2px;
+}
+.th3
+{
+    width: 52px;
+    height: 17px;
+    border: 1px solid #FF8800;
+    color: #FF8800;
+    position: relative;
+    left:143px;
+    top:-2px;
+}
+.th4
+{
+    width: 49px;
+    height: 19px;
+    border-bottom: 1px dashed #999999;
+    color: #999999;
+    position: relative;
+    left:184px;
+    top:-4px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.ckinfo10 div
+{
+    margin-bottom: -2px;
+}
+.th5
+{
+    font-size: 15px;
+    color: #FF6600;
+    position: relative;
+    left:19px;
+    top:-2px;
+}
+.th6
+{
+    width: 52px;
+    height: 17px;
+    border: 1px solid #FF8800;
+    color: #FF8800;
+    position: relative;
+    left:59px;
+    top:-2px;
+}
+.th7
+{
+    width: 49px;
+    height: 19px;
+    border-bottom: 1px dashed #999999;
+    color: #999999;
+    position: relative;
+    left:100px;
+    top:-4px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+/*优惠方式*/
+.ckinfo11
+{
+    width: 849px;
+    height: 46px;
+    background-color: #F9F9F9;
+    color: #333333;
+    position: relative;
+    top:153px;
+    left:19px;
+}
+.man11 img
+{
+    width: 48px;
+    height: 44px;
+}
+
+.man12
+{
+    position: relative;
+    top:-15px;
+    left:10px;
+    font-size: 18px;
+}
+.ckinfo12 select
+{
+    font-size: 13px;
+    color: #666666;
+    position: relative;
+    top:190px;
+    left:168px;
+    border: none;
+}
+/*第四部分，支付*/
+.zhifu
+{
+    width: 889px;
+    height: 45px;
+    background-color: white;
+    position: relative;
+    top:-284px;
+    left:17px;
+    display: flex;
+    align-items: center;
+}
+.zhifu1
+{
+    width: 635px;
+    height: 43px;
+    border: 1px solid #FF6600;
+    background-color: white;
+    display: flex;
+    align-items: center;
+
+}
+.zhifu2
+{
+    width: 251px;
+    height: 45px;
+    background-color: #FF6600;
+    position: relative;
+    text-align: center;
+    line-height: 44px;
+}
+.zhifu2 button
+{
+    width: 251px;
+    height: 45px;
+    background-color: #FF6600;
+    color: white;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+.zf1 a
+{
+   text-decoration: none;
+    font-size: 11px;
+    color: #CCCCCC;
+    position: relative;
+    left:14px;
+}
+.zf2
+{
+    font-size: 13px;
+    position: relative;
+    left:426px;
+}
+.zf3
+{
+    font-size: 22px;
+    position: relative;
+    left:437px;
+    color: #FF6600;
+}
+
+/*底部*/
+.foot1
+{
+    font-size: 11px;
+    color: #999999;
+    position: relative;
+    top:-240px;
+    left:400px;
+}
+.foot2
+{
+    font-size: 11px;
+    color: #999999;
+    position: relative;
+    top:-230px;
+    left:234px;
+}
+.foot2 a
+{
+    text-decoration: none;
+    color: #999999;
+}
+
+/*登录页面设置*/
+.doupiao
+{
+    position: fixed;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+
+    z-index: 2;
+}
+.doupiao1
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 0.7;
+
+    z-index: 3;
+}
+.login
+{
+    width: 446px;
+    height: 370px;
+    position: relative;
+    background-color: white;
+    margin: 100px auto;
+    z-index: 4;
+}
+.login1
+{
+    width: 446px;
+    height: 32px;
+    background-color: #EEEEEE;
+    font-size: 14px;
+    text-align: center;
+    line-height: 33px;
+    color: #666666;
+}
+.log1
+{
+    position: relative;
+    left:-156px;
+}
+.log2 {
+    position: relative;
+    left: 156px;
+}
+.login2
+{
+    display: flex;
+    align-items: center;
+    position: relative;
+    left:74px;
+    top:22px;
+}
+.phone
+{
+    width: 150px;
+    height: 30px;
+    /*border: 1px solid #FF6600;*/
+    border-bottom: 1px solid #CCCCCC;
+    font-size: 17px;
+    color: #666666;
+    text-align: center;
+}
+.name
+{
+    width: 150px;
+    height: 30px;
+    border-bottom: 1px solid #EE3388;
+    font-size: 17px;
+    color: #666666;
+    text-align: center;
+}
+.login3 input
+{
+    width: 300px;
+    height: 40px;
+    border: 1px solid #999999;
+    font-size: 15px;
+    position: relative;
+    left:74px;
+    top:56px;
+}
+.login4 input
+{
+    width: 300px;
+    height: 40px;
+    font-size: 15px;
+    border: 1px solid #999999;
+    position: relative;
+    left:74px;
+    top:76px;
+}
+.login5 a
+{
+    text-decoration: none;
+    font-size: 13px;
+    color: #0099CC;
+    position: relative;
+    top:92px;
+    left:309px;
+}
+.login6
+{
+    width: 300px;
+    height: 40px;
+    background-color: #EE3388;
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left:74px;
+    top:105px;
+    text-align: center;
+    line-height: 35px;
+    cursor: pointer;
+}
+.login7
+{
+    color: #999999;
+    font-size: 14px;
+    position: relative;
+    top:122px;
+    left: 74px;
+}
+.login7 a
+{
+    text-decoration: none;
+    color: #0099CC;
+}

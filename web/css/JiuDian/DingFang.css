@@ -1,0 +1,54 @@
+body{
+    background-color: #F5F5F5;
+}
+.h21{
+    width: 900px;
+    height: 46px;
+    background-color: #F5F5F5;
+    display: flex;
+    align-items: center;
+}
+input ,.number1{
+    height: 43px;
+    width: 234px;
+    border: 1px solid #CCCCCC;
+    font-size: 20px;
+}
+textarea{
+    font-size: 20px;
+
+}
+
+.YuDing{
+    width: 900px;
+    height: 904px;
+    background-color: white;
+    margin-left: 150px;
+}
+.YuDing2{
+    margin-left: 50px;
+}
+.JiuDianNanme{
+    width: 500px;
+    border: none;
+    font-size: 25px;
+}
+.YuDing1{
+    font-size: 14px;
+    color: #666666;
+}
+.XingHao{
+    border: none;
+    color: #FF8800;
+}
+.input{
+    margin: 0px 400px;
+    background-color: #FF8800;
+    cursor: pointer;
+}
+
+#DingFangChengGong{
+    margin: 0px 447px;
+    font-size: 20px;
+
+}

@@ -1,0 +1,292 @@
+.xianlu
+{
+    width: 1256px;
+    height: 500px;
+    /*border: 1px solid black;*/
+}
+.hcxianlu
+{
+    width: 823px;
+    height: 500px;
+    /*border: 1px solid red;*/
+    position: relative;
+    left:30px;
+}
+.hcxianlu1
+{
+    width: 823px;
+    height: 30px;
+    /*border-bottom: 1px solid black;*/
+}
+.xianlu1
+{
+    font-size: 19px;
+    color: #333333;
+}
+.l4 span
+{
+    width: 48px;
+    height: 25px;
+    background-color: #FF9900;
+    font-size: 15px;
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.l1 span,.l2 span,.l3 span,.l5 span,.l6 span,.l7 span
+{
+    width: 48px;
+    height: 25px;
+    background-color: white;
+    font-size: 15px;
+    color: #999999;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.xianlu2 li
+{
+    display: inline-block;
+    margin-left: -4px;
+}
+.xianlu2 ul
+{
+    position: relative;
+    top:-29px;
+    left:142px;
+}
+.xianlu3,.fjxianlu2
+{
+    width: 823px;
+    height: 465px;
+    border-top: 1px solid #DDDDDD;
+    position: relative;
+    top:3px;
+}
+
+.sqart1 img,.sqart2 img,.sqart3 img,.sqart4 img,.fjsqart1 img,.fjsqart2 img
+{
+    width: 29px;
+    height: 20px;
+    position: relative;
+    top:6px;
+}
+.sqart1 li,.fjsqart1 li
+{
+    width: 190px;
+    height: 92px;
+    border: 1px solid #DDDDDD;
+    background-color: #FAFAFA;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    top:4px;
+}
+
+.he
+{
+    margin-right: 15px;
+}
+.sh1
+{
+    font-size: 17px;
+    color: #999999;
+    position: relative;
+    top:15px;
+}
+.sh2
+{
+    color: #FF6600;
+    position: relative;
+    top:20px;
+}
+.price
+{
+    font-size: 22px;
+}
+.qi
+{
+    color: #999999;
+}
+.bh
+{
+    font-size: 13px;
+}
+.ha
+{
+    margin-left: -42px;
+}
+.sqart2 li,.fjsqart2 li
+{
+    width: 190px;
+    height: 92px;
+    border: 1px solid #DDDDDD;
+    background-color: #FAFAFA;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    top:12px;
+}
+.sqart3 li
+{
+    width: 190px;
+    height: 92px;
+    border: 1px solid #DDDDDD;
+    background-color: #FAFAFA;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    top:21px;
+}
+.sqart4 li {
+    width: 190px;
+    height: 92px;
+    border: 1px solid #DDDDDD;
+    background-color: #FAFAFA;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    top: 29px;
+}
+.tool
+{
+    width: 345px;
+    height: 500px;
+    /*border: 1px solid red;*/
+    position: relative;
+    top:-499px;
+    left:852px;
+}
+.tool1
+{
+    font-size: 16px;
+    margin-top: 10px;
+    color: #333333;
+}
+.tool2 img
+{
+    width: 52px;
+    height: 43px;
+    margin-top: 20px;
+}
+.tool2 a
+{
+    text-decoration: none;
+    font-size: 16px;
+    color: #333333;
+}
+.tool2 li
+{
+    width: 166px;
+    height: 105px;
+    border: 1px solid #F699C3;
+    display: inline-block;
+    background-color: #FEF2F9;
+    text-align: center;
+    line-height: 23px;
+}
+.tl
+{
+    margin-left: -41px;
+    margin-right: 5px;
+}
+.wenti
+{
+    margin-top: 29px;
+}
+.wt1
+{
+    font-size: 16px;
+    margin-top: 10px;
+    color: #333333;
+    margin-right: 253px;
+}
+.wt2 a
+{
+    text-decoration: none;
+    color: #999999;
+}
+.question
+{
+    width: 345px;
+    height: 287px;
+    /*border: 2px solid #DDDDDD;*/
+    margin-top: 10px;
+}
+.question img
+{
+    width: 25px;
+    height: 23px;
+    margin-top: 8px;
+
+}
+.question li
+{
+    list-style: none;
+    margin-left: -36px;
+    position: relative;
+}
+.qu1
+{
+    font-size: 14px;
+    position: absolute;
+    top:7px;
+}
+.demo1,.demo2,.demo3,.demo4
+{
+    width: 345px;
+    margin-top: 7px;
+    /*margin: 20px auto;*/
+    border: 1px solid #FFEAD1;
+    height: 100px;
+    margin-left: -7px;
+    background-color: #FFFBF6;
+}
+.demo1 em,.demo1 span,.demo2 em,.demo2 span,.demo3 em,.demo3 span,.demo4 em,.demo4 span
+{
+    display: block;
+    width: 30px;
+    height: 16px;
+    font-size: 21px;
+    overflow: hidden;
+    _position:relative;
+    margin-left: 36px;
+}
+.demo1 em,.demo2 em,.demo3 em,.demo4 em
+{
+    margin-top: -16px;
+    color: #FFEAD1;
+    font-style: normal;
+}
+.demo1 span,.demo2 span,.demo3 span,.demo4 span
+{
+    margin-top: -14px;
+    color: white;
+}
+.A img
+{
+    margin-top: 3px;
+    margin-left: 6px;
+}
+.qp
+{
+    margin-top: -24px;
+    margin-left: 36px;
+    color: #666666;
+}
+.qp div
+{
+    margin-bottom: 5px;
+}
+.qp a
+{
+    text-decoration: none;
+    color: #0099CC;
+}

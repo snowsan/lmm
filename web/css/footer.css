@@ -1,0 +1,32 @@
+/*结尾*/
+
+.WeiBu11 {
+    margin-top: 25px;
+}
+
+.WeiBu {
+    font-size: 12px;
+    color: #4C4C4C;
+    text-align: center;
+    background-color: #F7F7F7;
+    clear: both;
+}
+
+.WeiBu p {
+    font-size: 26px;
+}
+
+.dowm11 {
+    width: 102px;
+    height: 42px;
+}
+
+.WeiBu a {
+    font-size: 13px;
+    color: #4C4C4C;
+    text-decoration: none;
+}
+
+.WeiBu a:hover {
+    text-decoration: underline;
+}

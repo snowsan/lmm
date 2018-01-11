@@ -1,0 +1,25 @@
+body{
+    margin-left: 150px;
+}
+.YuDing{
+    padding: 20px;
+    width: 500px;
+    border: 2px solid #999999 ;
+    margin-top: 20px
+}
+.name{
+    font-size: 25px;
+    color: #FF6151;
+}
+.YuDing1{
+    padding: 10px;
+color: white;
+    background-color: #FF6151;
+    font-size: 25px;
+    border: 1px solid #994136;
+    cursor: pointer;
+}
+.YuDing1:hover{
+    background-color: #bb483c;
+
+}

@@ -1,0 +1,82 @@
+body {
+    background-color: #F5F5F5;
+}
+
+.crumbs {
+    margin: 10px 100px;
+}
+
+.overview {
+    margin: 0 100px;
+    background-color: white;
+}
+
+.dtitle {
+    border-bottom: 1px solid #dfdfdf;
+    display: flex;
+    align-items: center;
+}
+
+.titbox {
+    margin-left: 20px;
+}
+
+.titboxtwo {
+    margin-left: 700px;
+}
+
+.mp_star i {
+    color: orange;
+}
+
+.price i {
+    color: orange;
+    font-size: 30px;
+}
+
+.btn {
+
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+}
+
+.ticket_img_scroll {
+    margin: 20px 0 20px 20px;
+}
+
+.dinfo {
+    margin-left: 100px;
+    height: 280px;
+    width: 500px;
+}
+
+.dcontent {
+    display: flex;
+    align-items: center;
+}
+
+.comment-info {
+    height: 160px;
+    background-color: #fbfbfb;
+}
+
+.dl-title {
+    margin-top: 20px;
+    color: gray;
+}
+
+.dl-text {
+    color: blue;
+}
+
+.pj_t{
+   line-height: 60px;
+    border-bottom: 1px dashed gray;
+}
+
+.count{
+    color: orange;
+    font-size: 20px;
+}
